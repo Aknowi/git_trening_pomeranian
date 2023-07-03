@@ -1,0 +1,17 @@
+h1 {
+    
+}
+
+img {
+    width: 10%;
+}
+th{
+    border: solid 2px rgb(66, 5, 53);
+    background-color: rgb(163, 92, 134);
+    color: white;
+    
+}
+
+td {
+    padding: 5px 5px 5px 15px;
+}
