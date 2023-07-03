@@ -1,5 +1,7 @@
-h1 {
-    
+html {
+
+    font-family: "Open Sans", sans-serif;
+
 }
 
 img {
@@ -14,4 +16,9 @@ th{
 
 td {
     padding: 5px 5px 5px 15px;
+}
+tr td:first-child {
+
+    font-family: monospace;
+
 }
